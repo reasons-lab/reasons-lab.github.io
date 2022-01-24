@@ -22,6 +22,11 @@ body {
 	margin:0 auto;
 }
 
+.myinner {
+	position:relative;
+	margin:40px;
+}
+
 header {
 	box-sizing:border-box;
 	position:relative;
